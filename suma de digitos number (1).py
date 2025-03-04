@@ -1,5 +1,6 @@
 numero = input("Ingresa un número: ")
 
+
 if numero.isdigit():  # Verifica si la entrada es un número válido
     suma = 0
     for digito in numero:
